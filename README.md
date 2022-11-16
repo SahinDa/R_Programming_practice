@@ -17,3 +17,4 @@ Questing list and each program name start with question number
 13.Create a matrix and find its transpose.
 14.WAP to marge to given list into a single list.
 15.WAP to check if a number is strong or not.
+
